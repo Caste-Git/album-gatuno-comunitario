@@ -1,3 +1,13 @@
+# Album Gatuno Comunitario
+
+Este proyecto fue inspirado en https://theunsentproject.com/ , la idea es una página/app cuyo objetivo es simplemente publicar fotitos de nuestros michis. En lugar de poner el nombre del dueño, usamos un apodo para mantener privacidad, y ponemos nombre y edad del michi al momento de subir la foto.
+
+**Posibles mejoras** 
+- Persistencia de datos
+- Se podrían publicar todo tipo de mascotas, no solo gatos.
+- Funcionalidad del formulario de posteo de mascotas.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
